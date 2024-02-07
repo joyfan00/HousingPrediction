@@ -1,0 +1,20 @@
+#import modules
+import numpy as np
+import pandas as pd
+
+#load files
+df = pd.read_csv()
+
+#join files
+df.conact()
+
+#convert to numerical data
+
+
+#drop empty features and observations
+
+
+#drop low variance featurse
+
+
+#other things?
